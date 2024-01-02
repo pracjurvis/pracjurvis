@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://github.com/pracjurvis/pracjurvis/assets/155220161/6bc1e41a-628d-4c55-9a5d-2576430bd897" alt="Project Image" height="800"/>
+</p>
 
 - 👋 Hi, I’m @pracjurvis
 - 👀 I’m interested in ...
